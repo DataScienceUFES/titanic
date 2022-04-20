@@ -9,6 +9,9 @@ Todos os ingressantes terão de passar por estes dados como criterio de nivelar 
 
     ├── analisys:
     │
+    ├── pasta maneira
+    |
+    |
     ├── data:
     │    ├── 01_raw
     │    ├── 02_datasets
